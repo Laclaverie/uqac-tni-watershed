@@ -10,6 +10,14 @@ Pierre LACLAVERIE
 Thibaud SIMON 
 Yann REYNAUD 
 
+# Sommaire 
+- [TNI-TP2](#tni-tp2)
+- [Sommaire](#sommaire)
+- [Objectif du travail : Segmentation de roches](#objectif-du-travail--segmentation-de-roches)
+- [Méthode](#méthode)
+  - [Conclusion sur la méthode](#conclusion-sur-la-méthode)
+- [Extraction des données](#extraction-des-données)
+
 Ici le [Sujet](TP2/Ress/pdf/Sujet%20-%20TP2.pdf) ainsi que le [Compte-rendu](TP2/Ress/pdf/Rapport.pdf)
 
 Ce projet a ete fait en python avec notamment l'utilisation d'opencv en python.
