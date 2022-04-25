@@ -34,7 +34,7 @@ Pour arriver à la meilleure segmentation, nous avons testé différentes métho
 
 - Watershed
 - Seuillage
-- Randomo Walker
+- Random Walker
 - Canny + Filling
 - SLIC
 - Quickshift 
